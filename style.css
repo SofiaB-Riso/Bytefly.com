@@ -1,0 +1,105 @@
+/*index page*/
+body{background-color: #211A2A;}
+table {height:90vh ; width: 100%;}
+td{width: 5% ;height: 24.5%}
+/*fonts*/
+.inika{font-family: 'Inika';font-size: 22px;}
+.inter{font-family: 'Inter';font-size: 130%;}
+.titulo{font-family: 'Inika';font-size: 700%; color: #C1FF72; text-align: center;}
+/*alinhamento*/
+.m{text-align: center;}
+.d{text-align: right;}
+.e{text-align: left;}
+.top{vertical-align: top;}
+.center{vertical-align: center;}
+/*cores*/
+.verde{ color:#C1FF72;}
+.lilas{color: #F0C9FF; font-size:18px; font-family:'Inter'; font-weight: lighter;}
+.menta{color: #D8FCAA; font-size:18px; font-family:'Inter'; font-weight: 500;}
+.mentaper{color: #D8FCAA;font-family:'Inter';}
+.branco{color: #ffffff;font-family: "Inter";}
+.escuro{background-color: #211A2A;}
+.claro{background-color: #3B3049;}
+.sumi{color: #3B3049;}
+
+/*geral*/
+.texto{ font-family: 'Konkhmer Sleokchher'; font-size: 300%;color: #F0C9FF ; text-align: center; vertical-align: top;}
+
+/*botoes*/
+.botao{text-align: center;
+       vertical-align: top;}   
+.boton{text-align: center;
+        vertical-align: bottom;}   
+   
+.btt{  
+       text-align: center;
+       background-color: #C1FF72; 
+       border: none;
+       width: 70%;
+       border-radius:12px;
+       font-family: 'Inika';
+       padding: 3%;
+       display: inline-block;
+       font-size: 200%;
+       font-weight: bolder;
+       color:#211A2A;
+       }
+       .btn{  
+              text-align: center;
+              background-color: #C1FF72; 
+              border: none;
+              width: 80%;
+              border-radius:12px;
+              font-family: 'Inter';
+              padding: 3%;
+              display: inline-block;
+              font-size: 100%;
+              font-weight: bolder;
+              color:#211A2A;
+              }
+button:hover{background-color: #ffffff;}
+
+/*ids*/
+#link{
+       color: #211A2A;
+       text-decoration: none;
+}
+#lojaWho{ 
+       font-size: 22px;
+       font-family: "Inter";
+       text-align: right;
+       text-decoration: none;
+       color: #C1FF72;
+     }
+
+
+/* shop */
+.pag{height:220% ; width: 100%}
+.t1verde{width: 6.25%;height: 3%;} /* 2linhas 6,4*/
+.t2rosa{width: 6.25%;height: 7.6%;} /* 2linhas 15,2*/
+.t3roxo{width: 6.25%;height: 8.5%;} /* 3linhas 28,5*/
+.t4branco{width: 6.25%;height:9%;} /* 1 linha*/
+.t5amarelo{width: 6.25%;height: 10%;} /* 2linhas 26,6 */
+.t6laranja{width: 6.25%;height: 17%;} /*1 linha*/
+/*106,7*/
+
+/* item1 e 2*/
+.pag2{height:90% ; width: 100%}
+.x1rosa{width: 4.5%;height: 25.6%;} /* 2 linhas 51,2*/
+.x2amarelo{width: 4.5%;height: 14.2%;} /* 1 linha*/
+.x3roxo{width:4.5%;height:23.6%;} /* 1 linha*/
+.x4laranja{width: 4.5%;height: 36%;} /*1 linha*/
+/*127,4*/
+/*22x5*/
+
+/*who*/
+.pag3{height:200% ; width: 100%; background-color: #3B3049;}
+.y1rosa{width: 11%;height: 8%;} /* 2 linhas 51,2*/
+.y12rosa{width: 3.2%;height: 8%;} 
+.y2amarelo{width:  11%;height: 10%;} /* 1 linha*/
+.y22amarelo{width: 3.2%;height: 10%;}
+.y3roxo{width: 11%;height:40%;} /* 1 linha*/
+.y32roxo{width: 3.2%;height:40%;}
+.y4laranja{width: 11%;height: 47.6%;} /*1 linha*/
+.y42laranja{width: 3.2%;height: 47.6%;}
+
